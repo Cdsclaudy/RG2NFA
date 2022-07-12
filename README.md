@@ -11,5 +11,11 @@ Convert Regular Grammar to Non Finite Automata using Graphviz
 3. OUTPUT FILE SHOWN
 
 ## SAMPLE OUTPUT
+```
+Regular grammar to Finite Automata: here's λ. Enter -1 for end of input
+A->aB|bA|b
+B->aC|bB
+C->aA|bC|a
+```
 ![NFA](image.png)
 EXPORT FORMAT: PDF
