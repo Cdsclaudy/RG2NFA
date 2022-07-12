@@ -16,6 +16,7 @@ Regular grammar to Finite Automata: here's λ. Enter -1 for end of input
 A->aB|bA|b
 B->aC|bB
 C->aA|bC|a
+-1
 ```
 ![NFA](image.png)
 EXPORT FORMAT: PDF
