@@ -18,5 +18,5 @@ B->aC|bB
 C->aA|bC|a
 -1
 ```
-![NFA](image.png)
+![NFA](image.png)  
 EXPORT FORMAT: PDF
